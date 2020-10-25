@@ -8,6 +8,8 @@ class Board extends React.Component {
         this.state = {
             guess: ""
         }
+
+        console.log(props);
     }
 
     render() {
