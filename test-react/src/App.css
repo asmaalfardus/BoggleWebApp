@@ -10,3 +10,11 @@
     border: 5px solid white;
     text-align: center;
 }
+
+.foundWord {
+    color: lightgreen;
+}
+
+.missedWord {
+    color: red;
+}
